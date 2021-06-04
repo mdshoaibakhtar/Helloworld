@@ -1,1 +1,5 @@
-md shoaib akhtar
+#include<stdio.h>
+int main()
+{
+    printf("Hello World");
+}
